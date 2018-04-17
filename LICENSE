@@ -2,13 +2,13 @@ Eiffel Forum License, Version 2
 
 =======================================================================
 
-1.Permission is hereby granted to use, copy, modify and/or distribute 
-  this package, provided that:
-        *copyright notices are retained unchanged,
-        *any distribution of this package, whether modified or not, 
-         includes this license text.
-2.Permission is hereby also granted to distribute binary programs which
-  depend on this package. 
+1. Permission is hereby granted to use, copy, modify and/or distribute 
+   this package, provided that:
+        * copyright notices are retained unchanged,
+        * any distribution of this package, whether modified or not, 
+          includes this license text.
+2. Permission is hereby also granted to distribute binary programs which
+   depend on this package. 
 If the binary program depends on a modified version of this package, 
 you are encouraged to publicly release the modified version of this package.
 
@@ -28,11 +28,11 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS PACKAGE.
 
 =======================================================================
 
-1.特此授权使用、复制、修改和/或传播此包, 前提是:
-       *版权声明保留不变, 
-       *此包的任何传播 (无论是否修改) 都必须包括此许可证文本。
-2.此外, 还允许分发依赖于此包的二进制程序。如果二进制程序依赖于此程序包的修改版本, 
-  则鼓励您公开发布此程序包的修改版本。
+1. 特此授权使用、复制、修改和/或传播此包, 前提是:
+       * 版权声明保留不变, 
+       * 此包的任何传播 (无论是否修改) 都必须包括此许可证文本。
+2. 此外, 还允许分发依赖于此包的二进制程序。如果二进制程序依赖于此程序包的修改版本, 
+   则鼓励您公开发布此程序包的修改版本。
 
 ***********************
 
